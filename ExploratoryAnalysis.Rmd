@@ -15,7 +15,7 @@ output:
 
 # RNAseq exploration
 
-This should be the same Salmon counts you generated last week, but now we're going to do a bit more with them. They are six yeast RNAseq samples.
+This should be the same Salmon counts you generated last week, but now we're going to do a bit more with them. They are six yeast RNAseq samples. This is a test update for git. 
 
 
 ## Setup
